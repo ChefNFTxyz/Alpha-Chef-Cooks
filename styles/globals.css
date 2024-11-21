@@ -65,7 +65,7 @@ a {
 button.wallet-adapter-button-trigger {
   cursor: pointer;
   color: rgb(var(--foreground-rgb)) !important;
-  border: 0px solid rgb(var(--tertiary-background-rgb)) !important;
+  border: 2px solid rgb(var(--tertiary-background-rgb)) !important;
   border-radius: var(--border-radius) !important;
   background-color: rgb(var(--background-rgb)) !important;
 }
