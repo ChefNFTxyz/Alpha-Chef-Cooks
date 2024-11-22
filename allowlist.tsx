@@ -3,8 +3,7 @@
 export const allowLists = new Map<string, Array<string>> ([
     ["Head",
     [
-      "HestHarPSdXG2sKGsogkyhLeo9Tddof1k4iSKmAXDTHG",
-      "CV8DqUvYDWMByMN3P2SDi7ErajuhsDUo8gEfyVDZBRtJ"
+      "AYmCQF1ameB4TATaGDiKYdyuAfsjK19pCNLVtsiQkrQD"
     ]],
     ["Public",
       [
@@ -16,6 +15,6 @@ export const allowLists = new Map<string, Array<string>> ([
     ]],
     ["All",
       [
-        "HestHarPSdXG2sKGsogkyhLeo9Tddof1k4iSKmAXDTHG"
+        "AYmCQF1ameB4TATaGDiKYdyuAfsjK19pCNLVtsiQkrQD"
     ]],
 ]);
